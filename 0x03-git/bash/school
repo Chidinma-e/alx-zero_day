@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "The School is open"
+echo "The School is open. Leave me"
 Lets try again
-echo "The School is open and closed"
+echo "The School is open and closed. Hi"
 We did it again
