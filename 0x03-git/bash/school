@@ -1,4 +1,7 @@
 #!/bin/bash
+echo "The School is open and might be closed"
+Lets try again
+echo "The School is open and closed. Thank you"
 echo "The School is open. Leave me"
 Lets try again
 echo "The School is open and closed. Hi"
